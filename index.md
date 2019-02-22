@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Home
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
@@ -43,11 +43,11 @@ page_sections:
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  media_alignment: Left
+  headline: "<strong>Mike Sturm<br></strong>Writer"
+  content: I'm an ex-academic, thinking and writing about that unique realm of existence
+    called working. This includes self-improvement, productivity, strategy, business
+    ethics, and emotional intelligence.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
@@ -75,6 +75,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
